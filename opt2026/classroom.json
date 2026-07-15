@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "最优化方法2026秋",
+  "short_name": "opt2026",
+  "term": "2026-Fall",
+  "org": "opt-course-2026",
+  "team": {
+    "id": 18525049,
+    "slug": "classroom50-opt2026"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18525050,
+      "slug": "classroom50-opt2026-instructor"
+    },
+    "ta": {
+      "id": 18525052,
+      "slug": "classroom50-opt2026-ta"
+    }
+  }
+}
