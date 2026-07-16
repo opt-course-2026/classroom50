@@ -1,4 +1,23 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "lab1",
+      "name": "实验一：单纯形法",
+      "template": {
+        "owner": "opt-course-2026",
+        "repo": "lab1-simplex",
+        "branch": "main"
+      },
+      "due": "2026-10-15T15:59:00Z",
+      "due_meta": {
+        "input": "2026-10-15T23:59:00+08:00",
+        "offset": "+08:00",
+        "source": "explicit-offset"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true
+    }
+  ]
 }
